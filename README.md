@@ -46,7 +46,7 @@ This project is meticulously organized to keep things clear and easy to navigate
 ## Features
 
 -   **SQL Data Preparation & Analysis**: Set up your dedicated COVID-19 database and table. Experience robust data cleaning and execute powerful SQL queries to analyze mortality trends and uncover the prevalence of various comorbidities. 🚀
--   **R Statistical Modeling**: Leverage R's statistical prowess for advanced analysis, including data manipulation, elegant visualizations, correlation deep dives, and logistic regression modeling to accurately predict mortality. Model performance is evaluated using insightful ROC curves. 📊🔮
+-   **R Statistical Modeling**: Leverage R's statistical prowess for advanced analysis, including data manipulation, elegant visualizations, correlation deep dives, and logistic regression modeling to accurately predict mortality. Model performance is evaluated using insightful ROC curves. 📊
 -   **Python Data Exploration & Visualization**: Explore interactively with Jupyter Notebooks. Perform extensive data cleaning (tackling missing values, duplicates, and type conversions) and create compelling visualizations focusing on ICU admissions and their critical impact on mortality using `pandas`, `numpy`, `matplotlib`, and `seaborn`. 🐍🎨
 -   **Data Source Integration**: Seamlessly fetches the dataset directly from Kagglehub, making setup a breeze! ☁️➡️💾
 
@@ -126,7 +126,7 @@ This project showcases a powerful, multi-language approach to complex data analy
 Here's a snapshot of the compelling findings and insights gleaned from this analysis:
 
 -   **Key Metrics**: Discover overall mortality rates, the prevalence of various comorbidities, and other crucial statistics derived directly from our SQL queries. 📉
--   **Predictive Power**: Uncover significant factors influencing mortality as identified by our R-based logistic regression models. Understand the "why" behind the outcomes. 🔮
+-   **Predictive Power**: Uncover significant factors influencing mortality as identified by our R-based logistic regression models. Understand the "why" behind the outcomes. 
 -   **Visual Narratives**: Explore compelling observations from Python's exploratory data analysis. See vivid visualizations detailing ICU admission distributions and stark differences in mortality rates based on ICU status. (Consider adding screenshots here! 📸)
 -   **Actionable Conclusions**: Read our derived conclusions and potential recommendations or next steps based on the comprehensive findings. ➡️
 
