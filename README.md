@@ -5,6 +5,8 @@
 
 Project Link: [https://public.tableau.com/app/profile/keletso.ntseno/viz/Covid19Dashboard_17485246956080/Dashboard1](https://public.tableau.com/app/profile/keletso.ntseno/viz/Covid19Dashboard_17485246956080/Dashboard1)) 🔗
 
+---
+
 ## Overview
 
 Dive deep into the impact of the COVID-19 pandemic with this comprehensive data analysis project! 🚀 Utilizing SQL, R, and Python, we explore patient demographics, underlying health conditions (comorbidities), treatment outcomes, and critical mortality rates. Our main goal is to uncover key insights and actionable information from the raw data. 📈
