@@ -1,7 +1,7 @@
 # 🦠 COVID-19 Data Analysis Project 📊
 ---
 
-# Tablaeu link
+# Tablaeu link 📉
 
 Project Link: [https://public.tableau.com/app/profile/keletso.ntseno/viz/Covid19Dashboard_17485246956080/Dashboard1](https://public.tableau.com/app/profile/keletso.ntseno/viz/Covid19Dashboard_17485246956080/Dashboard1)) 🔗
 
